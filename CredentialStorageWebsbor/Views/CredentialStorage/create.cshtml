@@ -1,0 +1,45 @@
+﻿@model NewCredentialStorageViewModel
+
+@{
+    ViewData["Title"] = "Добавление учетных данных";
+}
+
+<div class="row justify-content-center">
+    <div class="col-10 shadow p-3">
+        <form asp-action="Create" method="post">
+            <p class="h3">Новая запись</p>
+            <div class="row">
+                <div class="col-6">
+                    <div class="mb-3">
+                        <label asp-for="Name" class="form-label" title="Обязательное поле">Наименование<i class="text-danger">*</i></label>
+                        <input asp-for="Name" class="form-control" title="Наименование организации"  required />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="OKPO" class="form-label" title="Обязательное поле">ОКПО<i class="text-danger">*</i></label>
+                        <input asp-for="OKPO" class="form-control" title="ОКПО организации, не более 14 символов" required />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Password" class="form-label" title="Обязательное поле">Пароль<i class="text-danger">*</i></label>
+                        <input asp-for="Password" class="form-control" title="Пароль" required/>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="DateCreate" class="form-label">Дата создания записи</label>
+                        <input asp-for="DateCreate" class="form-control" type="date" disabled/>
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="mb-3">
+                        <label asp-for="UserCreate" class="form-label">Пользователь, создавший запись</label>
+                        <input asp-for="UserCreate" class="form-control" disabled/>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Comment" class="form-label">Примечание</label>
+                        <textarea asp-for="Comment" class="form-control" style="height:210px;"></textarea>
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Сохранить</button>
+        </form>
+    </div>
+</div>
+

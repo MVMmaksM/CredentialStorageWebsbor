@@ -4,11 +4,11 @@ using System.Diagnostics;
 
 namespace CredentialStorageWebsbor.Controllers
 {
-    public class HomeController : Controller
+    public class CredentialStorageController : Controller
     {
         private readonly ILogger<HomeController> _logger;
 
-        public HomeController(ILogger<HomeController> logger)
+        public CredentialStorageController(ILogger<HomeController> logger)
         {
             _logger = logger;
         }
@@ -17,7 +17,13 @@ namespace CredentialStorageWebsbor.Controllers
         public IActionResult Index()
         {
             return View();
-        }       
+        }
+
+        [HttpGet]
+        public IActionResult Create()
+        {
+            return View();
+        }
 
         [ResponseCache(Duration = 0, Location = ResponseCacheLocation.None, NoStore = true)]
         public IActionResult Error()

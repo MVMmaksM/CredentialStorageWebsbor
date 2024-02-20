@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CredentialStorageWebsbor")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+6a8a7ebbbaf686af1609dc6acdd4406312371b96")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4f3f0511d4d25d0d06c5b110e61b2bcf05f3e626")]
 [assembly: System.Reflection.AssemblyProductAttribute("CredentialStorageWebsbor")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CredentialStorageWebsbor")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

@@ -1,0 +1,85 @@
+﻿@{
+    ViewData["Title"] = "Учетные данные респондентов";
+}
+
+<div class="row justify-content-center">
+    <div class="col-10">
+        <div class="shadow p-3">
+            <p class="h4">Учетные данные респондентов</p>
+            <div class="accordion" id="accordionFilter">
+                <div class="accordion-item">
+                    <h4 class="accordion-header" id="hedingOne">
+                        <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                            Фильтр
+                        </button>
+                    </h4>
+                    <div id="collapseOne" class="accordion-collapse collapse" aria-labelledby="headingOne" data-bs-parent="#accordionFilter">
+                        <div class="accordion-body">
+                            <div class="row">
+                                <div class="col-2">
+                                    <input class="form-control" id="searchName" placeholder="Наименование"></input>
+                                </div>
+                                <div class="col-2">
+                                    <input class="form-control" id="searchOkpo" placeholder="ОКПО"></input>
+                                </div>
+                                <div class="col-2">
+                                    <input class="form-control" type="date" id="searchDateCreate" placeholder="Дата создания пароля"></input>
+                                </div>
+                                <div class="col-2">
+                                    <input class="form-control" id="searchUserCreate" placeholder="Пользователь, создавший запись"></input>
+                                </div>
+                                <div class="col-2">
+                                    <input class="form-control" id="searchUserUpdate" placeholder="Пользователь, изменивший запись"></input>
+                                </div>
+                                <div class="col-2">
+                                    <div class="row">
+                                        <div class="col-6">
+                                            <a class="btn btn-primary" title="Обновить записи в таблице">Обновить</a>
+                                        </div>
+                                        <div class="col-6">
+                                            <a class="btn btn-primary" title="Очистить поля фильтра">Сбросить</a>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <div class="operations my-3">
+                <div class="row">
+                    <div class="col-4">
+                        <div class="row">
+                            <div class="col-2">
+                                <button href="#" onclick="btn_saveAllDataExcel()" class="btn btn-primary" title="Выгрузить все записи в Excel">Excel</button>
+                            </div>
+                            <div class="col-2">
+                                <button href="#" onclick="btn_saveCurrentDataExcel()" class="btn btn-primary" title="Выгрузить текущие записи в Excel">Excel</button>
+                            </div>
+                            <div class="col-8">
+                                <a asp-action="create" asp-controller="CredentialStorage" class="btn btn-primary">Создать запись</a>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+            <hr>
+            <table class="table table-striped table-sm">
+                <thead>
+                    <tr>
+                        <th scope="col">#</th>
+                        <th scope="col">Наименование</th>
+                        <th scope="col">ОКПО</th>
+                        <th scope="col">Пароль</th>
+                        <th scope="col">Дата создания пароля</th>
+                        <th scope="col">Пользователь, создавший запись</th>
+                        <th scope="col">Пользователь, изменивший запись</th>
+                        <th scope="col">Дата изменения записи</th>
+                        <th scope="col">Примечание</th>
+                        <th scope="col">Операции</th>
+                    </tr>
+                </thead>
+            </table>
+        </div>
+    </div>
+</div>

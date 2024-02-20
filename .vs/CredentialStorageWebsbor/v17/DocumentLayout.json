@@ -3,16 +3,24 @@
   "WorkspaceRootPath": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|c:\\users\\p45_vaganovmv\\source\\repos\\credentialstoragewebsbor\\credentialstoragewebsbor\\views\\credentialstorage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|solutionrelative:credentialstoragewebsbor\\views\\credentialstorage\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|c:\\users\\p45_vaganovmv\\source\\repos\\credentialstoragewebsbor\\credentialstoragewebsbor\\views\\cardnewcredential.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|solutionrelative:credentialstoragewebsbor\\views\\cardnewcredential.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|c:\\users\\p45_vaganovmv\\source\\repos\\credentialstoragewebsbor\\credentialstoragewebsbor\\models\\newcredentialstorageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|solutionrelative:credentialstoragewebsbor\\models\\newcredentialstorageviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|c:\\users\\p45_vaganovmv\\source\\repos\\credentialstoragewebsbor\\credentialstoragewebsbor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|solutionrelative:credentialstoragewebsbor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|c:\\users\\p45_vaganovmv\\source\\repos\\credentialstoragewebsbor\\credentialstoragewebsbor\\views\\websbor.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|solutionrelative:credentialstoragewebsbor\\views\\websbor.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|c:\\users\\p45_vaganovmv\\source\\repos\\credentialstoragewebsbor\\credentialstoragewebsbor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|solutionrelative:credentialstoragewebsbor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|c:\\users\\p45_vaganovmv\\source\\repos\\credentialstoragewebsbor\\credentialstoragewebsbor\\views\\credential.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|solutionrelative:credentialstoragewebsbor\\views\\credential.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|c:\\users\\p45_vaganovmv\\source\\repos\\credentialstoragewebsbor\\credentialstoragewebsbor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -26,8 +34,60 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 9,
+          "SelectedChildIndex": 2,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NewCredentialStorageViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Models\\NewCredentialStorageViewModel.cs",
+              "RelativeDocumentMoniker": "CredentialStorageWebsbor\\Models\\NewCredentialStorageViewModel.cs",
+              "ToolTip": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Models\\NewCredentialStorageViewModel.cs",
+              "RelativeToolTip": "CredentialStorageWebsbor\\Models\\NewCredentialStorageViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-02-20T11:00:50.727Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "cardNewCredential.html",
+              "DocumentMoniker": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\cardNewCredential.html",
+              "RelativeDocumentMoniker": "CredentialStorageWebsbor\\Views\\cardNewCredential.html",
+              "ToolTip": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\cardNewCredential.html",
+              "RelativeToolTip": "CredentialStorageWebsbor\\Views\\cardNewCredential.html",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEcAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-20T10:53:07.612Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "create.cshtml",
+              "DocumentMoniker": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\CredentialStorage\\create.cshtml",
+              "RelativeDocumentMoniker": "CredentialStorageWebsbor\\Views\\CredentialStorage\\create.cshtml",
+              "ToolTip": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\CredentialStorage\\create.cshtml",
+              "RelativeToolTip": "CredentialStorageWebsbor\\Views\\CredentialStorage\\create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACQAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-02-20T10:53:01.308Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "credential.html",
+              "DocumentMoniker": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\credential.html",
+              "RelativeDocumentMoniker": "CredentialStorageWebsbor\\Views\\credential.html",
+              "ToolTip": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\credential.html",
+              "RelativeToolTip": "CredentialStorageWebsbor\\Views\\credential.html",
+              "ViewState": "AQIAAFcAAAAAAAAAAAAAAHIAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-02-20T10:35:25.708Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Bookmark",
               "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
@@ -58,52 +118,26 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "CredentialStorageWebsbor\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "CredentialStorageWebsbor\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-12T11:22:20.894Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "websbor.html",
-              "DocumentMoniker": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\websbor.html",
-              "RelativeDocumentMoniker": "CredentialStorageWebsbor\\Views\\websbor.html",
-              "ToolTip": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\websbor.html",
-              "RelativeToolTip": "CredentialStorageWebsbor\\Views\\websbor.html",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABFAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-02-12T11:51:22.059Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CredentialStorageWebsbor\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CredentialStorageWebsbor\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAiAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-12T10:05:38.467Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Program.cs",
               "RelativeDocumentMoniker": "CredentialStorageWebsbor\\Program.cs",
               "ToolTip": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Program.cs",
               "RelativeToolTip": "CredentialStorageWebsbor\\Program.cs",
-              "ViewState": "AQIAAAQAAAAAAAAAAAA5wBcAAAAjAAAA",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-02-12T10:02:05.733Z",
               "EditorCaption": ""
