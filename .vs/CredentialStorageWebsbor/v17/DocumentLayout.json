@@ -3,24 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|c:\\users\\p45_vaganovmv\\source\\repos\\credentialstoragewebsbor\\credentialstoragewebsbor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|solutionrelative:credentialstoragewebsbor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|c:\\users\\p45_vaganovmv\\source\\repos\\credentialstoragewebsbor\\credentialstoragewebsbor\\views\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|solutionrelative:credentialstoragewebsbor\\views\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|c:\\users\\p45_vaganovmv\\source\\repos\\credentialstoragewebsbor\\credentialstoragewebsbor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|solutionrelative:credentialstoragewebsbor\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|c:\\users\\p45_vaganovmv\\source\\repos\\credentialstoragewebsbor\\credentialstoragewebsbor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|solutionrelative:credentialstoragewebsbor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|c:\\users\\p45_vaganovmv\\source\\repos\\credentialstoragewebsbor\\credentialstoragewebsbor\\views\\websbor.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|solutionrelative:credentialstoragewebsbor\\views\\websbor.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|c:\\users\\p45_vaganovmv\\source\\repos\\credentialstoragewebsbor\\credentialstoragewebsbor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|solutionrelative:credentialstoragewebsbor\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|c:\\users\\p45_vaganovmv\\source\\repos\\credentialstoragewebsbor\\credentialstoragewebsbor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{760CD0C9-5206-44AF-8BDB-D994543A16D5}|CredentialStorageWebsbor\\CredentialStorageWebsbor.csproj|solutionrelative:credentialstoragewebsbor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 7,
+          "SelectedChildIndex": 9,
           "Children": [
             {
               "$type": "Bookmark",
@@ -62,52 +58,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\Home\\Index.cshtml",
               "RelativeDocumentMoniker": "CredentialStorageWebsbor\\Views\\Home\\Index.cshtml",
               "ToolTip": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\Home\\Index.cshtml",
               "RelativeToolTip": "CredentialStorageWebsbor\\Views\\Home\\Index.cshtml",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAGAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
               "WhenOpened": "2024-02-12T11:22:20.894Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
               "Title": "websbor.html",
               "DocumentMoniker": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\websbor.html",
               "RelativeDocumentMoniker": "CredentialStorageWebsbor\\Views\\websbor.html",
               "ToolTip": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\websbor.html",
               "RelativeToolTip": "CredentialStorageWebsbor\\Views\\websbor.html",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACkAAABFAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAABFAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-02-12T11:51:22.059Z"
+              "WhenOpened": "2024-02-12T11:51:22.059Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "index.html",
-              "DocumentMoniker": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\index.html",
-              "RelativeDocumentMoniker": "CredentialStorageWebsbor\\Views\\index.html",
-              "ToolTip": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\index.html",
-              "RelativeToolTip": "CredentialStorageWebsbor\\Views\\index.html",
-              "ViewState": "AQIAABgAAAAAAAAAAAAAACYAAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-02-12T10:09:46.625Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 0,
               "Title": "_Layout.cshtml",
               "DocumentMoniker": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\Shared\\_Layout.cshtml",
               "RelativeDocumentMoniker": "CredentialStorageWebsbor\\Views\\Shared\\_Layout.cshtml",
               "ToolTip": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\Views\\Shared\\_Layout.cshtml",
               "RelativeToolTip": "CredentialStorageWebsbor\\Views\\Shared\\_Layout.cshtml",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAAB0AAAAOAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2024-02-12T10:05:38.467Z"
+              "WhenOpened": "2024-02-12T10:05:38.467Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
@@ -119,7 +105,8 @@
               "RelativeToolTip": "CredentialStorageWebsbor\\Program.cs",
               "ViewState": "AQIAAAQAAAAAAAAAAAA5wBcAAAAjAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-02-12T10:02:05.733Z"
+              "WhenOpened": "2024-02-12T10:02:05.733Z",
+              "EditorCaption": ""
             }
           ]
         }

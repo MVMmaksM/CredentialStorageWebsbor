@@ -421,6 +421,14 @@
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {
+      "Id": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\wwwroot\\uploads\\favicon.png",
+      "PackagePath": "staticwebassets\\uploads\\favicon.png"
+    },
+    {
+      "Id": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\wwwroot\\uploads\\logo.png",
+      "PackagePath": "staticwebassets\\uploads\\logo.png"
+    },
+    {
       "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.CredentialStorageWebsbor.Microsoft.AspNetCore.StaticWebAssets.props",
       "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
     },

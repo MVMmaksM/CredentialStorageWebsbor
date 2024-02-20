@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "4wu4BrA+v9JTmvjVgysSAHTD3dP96F3BSGXLkNEnXp0=",
+  "Hash": "Tayeg+X0Nqo8B/E+Q39MXre0tk6JFECIjy/xIZH4HYw=",
   "Source": "CredentialStorageWebsbor",
   "BasePath": "_content/CredentialStorageWebsbor",
   "Mode": "Default",
@@ -2029,6 +2029,44 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Identity": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\wwwroot\\uploads\\favicon.png",
+      "SourceId": "CredentialStorageWebsbor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\wwwroot\\",
+      "BasePath": "_content/CredentialStorageWebsbor",
+      "RelativePath": "uploads/favicon.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\favicon.png"
+    },
+    {
+      "Identity": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\wwwroot\\uploads\\logo.png",
+      "SourceId": "CredentialStorageWebsbor",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\p45_VaganovMV\\source\\repos\\CredentialStorageWebsbor\\CredentialStorageWebsbor\\wwwroot\\",
+      "BasePath": "_content/CredentialStorageWebsbor",
+      "RelativePath": "uploads/logo.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\uploads\\logo.png"
     }
   ]
 }
