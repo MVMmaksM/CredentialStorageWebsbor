@@ -1,0 +1,66 @@
+﻿@model CredentialStorageWebsbor.Models.Websbor.NewWebsborViewModel
+
+@{
+    ViewData["Title"] = "Добавление записи в каталог Web-сбора";
+}
+
+<div class="row justify-content-center">
+    <div class="col-10 shadow p-3">
+        <form asp-action="create" method="post">
+            <p class="h3 mb-3">Добавить запись в каталог Web-сбора</p>
+            <div class="row">
+                <div class="col-6">
+                    <div class="mb-3">
+                        <label asp-for="FullName" class="form-label" title="Обязательное поле">Полное наименование<i class="text-danger">*</i></label>
+                        <input asp-for="FullName" class="form-control" title="Полное наименование организации" required/>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="ShortName" class="form-label" title="Обязательное поле">Краткое наименование<i class="text-danger">*</i></label>
+                        <input asp-for="ShortName" class="form-control" title="Краткое наименование организации" required/>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="OKPO" class="form-label" title="Обязательное поле">ОКПО<i class="text-danger">*</i></label>
+                        <input asp-for="OKPO" class="form-control" title="ОКПО организации, не более 14 символов" required/>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="OKATOfact" class="form-label">ОКАТО факт.</label>
+                        <input asp-for="OKATOfact" class="form-control" type="number" title="ОКАТО фактическое"/>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="OKATOreg" class="form-label">ОКАТО рег.</label>
+                        <input asp-for="OKATOreg" class="form-control" type="number" title="ОКАТО регистрации"/>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="OKVED2fact" class="form-label">ОКВЭД2 факт.</label>
+                        <input asp-for="OKVED2fact" class="form-control" title="ОКВЭД2 фактический основного вида деятельности" />
+                    </div>
+                </div>
+                <div class="col-6">
+                    <div class="mb-3">
+                        <label asp-for="Address" class="form-label">Адрес</label>
+                        <input asp-for="Address" class="form-control"/>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="INN" class="form-label">ИНН</label>
+                        <input asp-for="INN" class="form-control" type="number"/>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="OGRN" class="form-label">ОГРН</label>
+                        <input asp-for="OGRN" class="form-control" type="number" />
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Phone" class="form-label">Телефон</label>
+                        <input asp-for="Phone" class="form-control"/>
+                    </div>
+                    <div class="mb-3">
+                        <label asp-for="Email" class="form-label">Email</label>
+                        <input asp-for="Email" class="form-control" type="email" />
+                    </div>
+                </div>
+            </div>
+            <button type="submit" class="btn btn-primary">Сохранить</button>
+        </form>
+    </div>
+</div>
+
+

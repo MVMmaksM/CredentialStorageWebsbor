@@ -1,4 +1,4 @@
-﻿namespace CredentialStorageWebsbor.Models
+﻿namespace CredentialStorageWebsbor.Models.CredentialStorage
 {
     public class NewCredentialStorageViewModel
     {
